@@ -40,7 +40,7 @@ It offers a dynamic desktop experience with offline functionality, themes, plugi
 
 ## Downloading
 
-Lumi OS can be run locally, so click on this [link](https://raw.githubusercontent.com/LuminesenceProject/LumiOS/main/old/LumiOS.v14.html) in order to download the file. It can also be downloaded as an about:blank page.
+Lumi OS can be run locally, so click on this [link](https://raw.githubusercontent.com/LuminesenceProject/LumiOS/main/old/LumiOS.v15.html) in order to download the file. It can also be downloaded as an about:blank page.
 - Can I run Lumi OS off of my chromebook?
 	> Yes, Lumi OS can be run from local files.
 - How do I know when to update my file?
@@ -88,7 +88,7 @@ npm run build
 
 ## Contributing
 
-Lumi OS os now **open-source**!  
+Lumi OS is now **open-source**!  
 Games have moved to a separate repository: [lumi-games](https://github.com/LuminesenceProject/lumi-games)
 
 > When adding games, please ensure you include an **image preview**.
@@ -126,10 +126,11 @@ If possible, provide a screenshot or copy the error message when reporting.
 ## Todo
 
 - [x] Release source code
-- [ ] Fix bug relating to topbar and settings
-- [ ] Fix bug with updating
+- [x] Fix bug relating to topbar and settings
+- [x] Fix bug with updating
 - [x] Allow for direct API access
 - [ ] Create extensions for third party developers
+- [ ] Autoupdater???
 - [ ] Add more TODOs
 
 ## Terms of Use
