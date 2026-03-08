@@ -28,13 +28,13 @@ It offers a dynamic desktop experience with offline functionality, themes, plugi
 
 ---
 
-## 🧰 Features
+## Features
 
-- 🎨 **Themes**, **plugins**, and much more  
-- 🎮 Over **200+ games** built-in  
-- 🔄 **Constant updates**  
-- 📁 Fully-functional **file system**  
-- 📝 Built-in **text editor**
+- **Themes**, **plugins**, and much more  
+- Over **200+ games** built-in  
+- **Constant updates**  
+- Fully-functional **file system**  
+- Built-in **text editor**
 
 ---
 
@@ -56,7 +56,7 @@ javascript:(function(){(async () => {/** BUILT FOR LUMI OS NOVEMBER 17th 2024*/c
 ```
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 LumiOS is built using **React + TypeScript**.  
 Follow these steps to run the project locally:
@@ -86,12 +86,12 @@ npm run build
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 Lumi OS os now **open-source**!  
 Games have moved to a separate repository: [lumi-games](https://github.com/LuminesenceProject/lumi-games)
 
-> 📝 When adding games, please ensure you include an **image preview**.
+> When adding games, please ensure you include an **image preview**.
 
 To get the source code, click the dropdown on main, then the version you want.
 Unfortunately old versions were lost since the code was directly updated.
@@ -101,7 +101,7 @@ The code between major updates was completely changed.
 > Some feature suggestions may not be added — especially ones relying on external servers — to keep **offline functionality** intact.  
 > Game links can always be updated through the **Settings** app.
 
-👑 **Contributors** will be credited in this repository.
+**Contributors** will be credited in this repository.
 
 ---
 
@@ -110,7 +110,7 @@ The code between major updates was completely changed.
 To report an issue, visit the [GitHub Issues page](https://github.com/LuminesenceProject/LumiOS/issues) and click **New Issue**.  
 You can also chat with us and submit bugs on our [Discord server](https://discord.gg/TyacaNY3GK)!
 
-### ⚠️ Common Issues & Fixes
+### Common Issues & Fixes
 
 - **White Screen Error:**  
   This is a known issue. To fix it, type `"lumiplus"` (exact spelling) — this will **clear all local data** and reset the system.  
@@ -119,7 +119,7 @@ You can also chat with us and submit bugs on our [Discord server](https://discor
 > [!IMPORTANT]  
 > Type `"lumiplus"` in that exact order to trigger the system reset popup.
 
-📸 If possible, provide a screenshot or copy the error message when reporting.
+If possible, provide a screenshot or copy the error message when reporting.
 
 ---
 
