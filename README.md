@@ -1,14 +1,21 @@
 <div align="center">
-
-# Lumi OS
-
-### 🚀 Join the Community  
-[![Discord](https://raw.githubusercontent.com/LuminesenceProject/LumiOS/refs/heads/main/images/discord.png)](https://discord.gg/TyacaNY3GK)
-
-**Lumi OS** is a modern **React + TypeScript** operating system built for the browser.  
-It offers a dynamic desktop experience with offline functionality, themes, plugins, games, and more!
-
-[Click here to access LumiOS](https://fritzcohen.github.io/LumiOS/index.html)
+	<br/>
+	<a href="https://github.com/Flow-Works/FlowOS">
+		<img src="https://raw.githubusercontent.com/FritzCohen/LumiOS/refs/heads/main/images/no-bg-logo.png" width="100px">
+	</a>
+	<h3 align="center">Lumi OS</h3>
+	<p align="center">
+		Your new favorite OS.
+		<br />
+    	<a href="https://lumios.gitbook.io/lumios"><strong>Explore the wiki »</strong></a>
+    	<br />
+    	<br />
+    	<a href="https://fritzcohen.github.io/LumiOS/">Try it Out</a>
+    	·
+    	<a href="https://github.com/FritzCohen/LumiOS/issues">Report Bug</a>
+    	·
+    	<a href="https://discord.com/invite/TyacaNY3GK">Join Discord</a>
+	</p>
 </div>
 
 ---
