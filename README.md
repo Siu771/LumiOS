@@ -34,6 +34,12 @@
 - [Modification and Redistribution](#modification-and-redistribution)
 
 ---
+<p align="center">
+  <img src="https://raw.githubusercontent.com/FritzCohen/LumiOS/refs/heads/main/images/demoscreen.png" width="49%" />
+  <img src="https://raw.githubusercontent.com/FritzCohen/LumiOS/refs/heads/main/images/demoscreen2.png" width="49%" />
+</p>
+
+---
 
 ## Features
 
